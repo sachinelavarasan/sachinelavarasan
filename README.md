@@ -10,6 +10,9 @@
 
 <details>
 <summary> Languages and Tools : </summary>
+ 
+  
+  
   [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,c,html,css,firebase,git,github,heroku,java,linux,mongodb,mysql,php,redux,sqlite,angular,bootstrap,tailwind,express,nestjs,flutter,&perline=8)](https://github.com/sachinelavarasan)  
   
   
