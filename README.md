@@ -9,12 +9,13 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
+<details>
+<summary> Languages and Tools : </summary>
+
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,react,angular,py,c,cpp,css,firebase,flask,git,github,heroku,java,linux,md,mongodb,mysql,netlify,nodejs,php,postgres,powershell,redux,sqlite,selenium,tensorflow,bootstrap,androidstudio,express,nestjs,vite&perline=8)](https://github.com/sachinelavarasan)  
+    
+    
+</details>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinelavarasan&show_icons=true&locale=en&layout=compact" alt="sachinelavarasan" /></p>
 
