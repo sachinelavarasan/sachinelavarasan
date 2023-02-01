@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Elavarasan</h1>
-<h3 align="center">Full Stack Develeoper</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinelavarasan&label=Profile%20views&color=0e75b6&style=flat" alt="sachinelavarasan" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinelavarasan&label=Profile%20views&color=0e75b6&style=flat" alt="sachinelavarasan" /> </p>
+<h3 align="left">Hi 👋, I'm Elavarasan</h3>
+<h4 align="left">Eager to learn new technologies</h4>
+<ul>
+ <li>Software Engineer</li>
+ <li>Connect with me On <a href="https://www.linkedin.com/in/elavarasan-m-ab48a0129" target="_blank"/>LinkedIn</a>&nbsp;<a href="https://dev.to/sachinelavarasan" target="_blank"/>Dev.to</a></li>
+</ul>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinelavarasan&show_icons=true&locale=en" alt="sachinelavarasan" /></p>
