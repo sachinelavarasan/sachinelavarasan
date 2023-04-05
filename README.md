@@ -11,7 +11,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinelavarasan&show_icons=true&locale=en" alt="sachinelavarasan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinelavarasan&" alt="sachinelavarasan" /></p>
-    <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a>
 
 <details>
 <summary> Languages and Tools : </summary>
